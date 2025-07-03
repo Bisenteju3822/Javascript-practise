@@ -13,10 +13,10 @@ let teju={
 
 }
 console.log(teju)
-let n1 = 2;
+let n7 = 2;
 console.log(n1)
 
-let n2 = 1.3;
+let n9= 1.3;
 console.log(n2)
 
 let n3 = Infinity;
@@ -30,13 +30,13 @@ console.log(s1);
 let s2 = 'Single quotes work fine';
 console.log(s2); 
 
-let s3 = `can embed ${s1}`;
+let s5 = `can embed ${s1}`;
 console.log(s3);
 
 let a;
 console.log(a);
-let s1 = Symbol("Geeks");
-let s2 = Symbol("Geeks");
+let s3= Symbol("Geeks");
+let s4 = Symbol("Geeks");
 console.log(s1 == s2);
 let b = BigInt("0b1010101001010101001111111111111111");
 console.log(b);
